@@ -47,14 +47,7 @@ html
 Copy
 Edit
 <img src="assets/your-image.jpg" alt="Description">
-🚀 Getting Started
-To view or edit the project locally:
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
 # Open portfolio.html in a browser
 📌 To-Do
  Replace local image paths with relative ones
