@@ -1,63 +1,43 @@
-# portfolio
-👩‍💻 Kavya's Developer Portfolio
-This is a personal portfolio website built using HTML5, CSS3, and Bootstrap 5. It highlights Kavya's profile, skills, projects, resume, and contact information.
+Kavyashree N - Portfolio Website
 
-🌐 Live Demo
-Coming Soon (Add your GitHub Pages or Netlify link here if deployed)
+Welcome to my personal portfolio website repository! This project showcases my skills, projects, and contact information in a clean, responsive, and professional design.
 
-📁 File Structure
-bash
-Copy
-Edit
-.
-├── portfolio.html         # Main HTML file
-├── resume.pdf             # (Add your resume file here)
-├── assets/                # Recommended folder for all images
-└── README.md
-🔧 Technologies Used
-HTML5
+Overview
 
-CSS3 (Bootstrap 5)
+This is a personal portfolio website built using **HTML**, **CSS**, **JavaScript**, and **Bootstrap 5**. It highlights my skills as a web developer, designer, and tech enthusiast.
 
-JavaScript (for Bootstrap interactivity)
+  Features
 
-Simple Icons CDN for social icons
+-  Responsive design using Bootstrap 5
+-  About Me section with profile image and introduction
+-  Skills list
+-  Projects section with cards and images
+-  Downloadable resume link
+- Contact information
 
-💼 Sections Included
-Hero – Introduction and social media links
+ Technologies Used
 
-About Me – Short biography and image
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap 5
 
-Skills – Technical stack
+ Folder Structure
 
-Projects – Showcased sample work
+project-folder/
+├── index.html
+├── styles.css
+├── your-resume.pdf
+├── images/
+│ ├── aaaa.jpg
+│ ├── port.png
+│ ├── landing.jpg
+│ └── free.jpg
 
-Resume – Downloadable resume link
+Contact
+Email: your-email@example.com
 
-Contact – Email and phone contact details
+Phone: (123) 456-7890
 
-⚠️ Image Path Note
-Some images are linked using absolute local paths (e.g., C:\Users\...). These won't work when hosted online. To fix this:
 
-Move all images to a local assets/ folder inside your project
 
-Update <img src=""> paths like so:
-
-html
-Copy
-Edit
-<img src="assets/your-image.jpg" alt="Description">
-
-# Open portfolio.html in a browser
-📌 To-Do
- Replace local image paths with relative ones
-
- Add resume.pdf to the project folder
-
- Make site responsive for all screen sizes
-
- Add deployment link (GitHub Pages, Netlify, etc.)
-
-📫 Contact
-Email: kavya@2004.com
-Phone: +123-456-7890
